@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.3.5)
+    addressable (2.3.6)
     atomic (1.1.14)
     buftok (0.2.0)
     builder (3.2.2)
